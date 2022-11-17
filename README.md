@@ -1,2 +1,3 @@
-# cover-letter-latex
-A cover letter template for a journal paper submission in Latex
+# Cover letter template
+
+A cover letter template for a journal paper submission in Latex.
