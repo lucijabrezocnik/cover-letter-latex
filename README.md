@@ -7,6 +7,8 @@ A cover letter template for a journal paper submission in Latex.
 ## Disclaimer
 This framework is provided as-is, and there are no guarantees that it fits your purposes or that it is bug-free. Use it at your own risk!
 
+<br>
+
 ## License
 Material in this folder is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
